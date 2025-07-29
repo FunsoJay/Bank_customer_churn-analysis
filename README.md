@@ -1,4 +1,7 @@
-# Bank Customer Churn
+# Bank Customer Churn Project
+![](https://github.com/FunsoJay/Bank_customer_churn-analysis/blob/main/BCC%20Intro%20Image.png)
+
+## Introduction
 In this project, I explored and analysed customer performance and activity data from a European bank to uncover churn trends and deliver insights that support better retention strategies using tools including SQL server to query the database for analysis and Power BI to visualize the insights obtained from the analysis.
 
 ## Objectives
@@ -9,7 +12,7 @@ In this project, I explored and analysed customer performance and activity data 
 
 
 ## Vizualisation
-![]()
+![](https://github.com/FunsoJay/Bank_customer_churn-analysis/blob/main/BCC%20Image.png)
 
 ## Findings and Insights
 Out of 10,000 customers, 20.4% have churned across the three countries—highlighting a critical need for proactive retention strategies. Notably, 69% of these churned customers used only one product, indicating low engagement with the bank’s broader offerings. This presents a clear opportunity to drive product adoption and improve customer loyalty.
